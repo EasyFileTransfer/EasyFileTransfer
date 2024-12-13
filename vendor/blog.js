@@ -5,7 +5,7 @@
  * License:Apache 2.0
  */
 (function($) {
-    var app_name = 'EasyFileTransfer';
+    var app_name = '';
     var blog_base = 'p';
     var img_root = 'img';
     var markdown_root = 'p';
@@ -182,12 +182,12 @@
 
     function read_config(callback) {
         $.getJSON('config.json', {}, function(data) {
-            app_name = data.app_name || app_name;
+            //app_name = data.app_name || app_name;
             img_root = data.img_root || img_root;
             description = data.description || "";
 
             markdown_root = data.markdown_root || markdown_root;
-            blog_base = app_name + '/' + markdown_root + '/';
+            blog_base = markdown_root + '/';
 
             $('meta[name=description]').first().attr('content',description);
             callback();
