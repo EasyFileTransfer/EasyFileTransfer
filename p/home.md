@@ -50,8 +50,8 @@
 
 ---
 
-<img src="./img/广告图-文本互发.png" width="200px" height="auto"/>
-<img src="./img/广告图-文件分类.png" width="200px" height="auto"/>
-<img src="./img/广告图-支持投屏.png" width="200px" height="auto"/>
-<img src="./img/广告图-轻松闪传.png" width="200px" height="auto"/>
+- **如果你觉得我的作品对你有帮助，欢迎赞赏支持，这将是我持续创作的最大动力！❤️- **
+
+<img src="p/img/IMG_1763.JPG" width="200px" height="auto"/>
+<img src="p/img/IMG_1764.JPG" width="200px" height="auto"/>
 
