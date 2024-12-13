@@ -5,8 +5,8 @@
  * License:Apache 2.0
  */
 (function($) {
-    var app_name = '';
-    var blog_base = '';
+    var app_name = 'EasyFileTransfer';
+    var blog_base = 'p';
     var img_root = 'img';
     var markdown_root = 'p';
     //当前请求的markdown文件
