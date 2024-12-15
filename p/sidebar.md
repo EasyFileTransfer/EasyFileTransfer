@@ -1,3 +1,3 @@
-- [版本日志](version/index.md)
-- [使用教程](novice/index.md)
+- [版本日志](version/home.md)
+- [使用教程](novice/home.md)
 - [关于作者](about.md)
