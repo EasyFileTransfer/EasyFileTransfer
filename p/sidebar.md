@@ -1,5 +1,3 @@
-- [文章](articles/index.md)
-- [作品](projects/index.md)
-- [日常](daily/index.md)
-- [收藏](favorites.md)
-- [关于](about.md)
+- [版本日志](version/index.md)
+- [使用教程](novice/index.md)
+- [关于作者](about.md)
